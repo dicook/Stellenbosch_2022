@@ -635,4 +635,4 @@ Slides produced using [quarto](https://quarto.org).
 
 Slides available from <https://github.com/dicook/Stellenbosch_2022>.
 
-Viewable at [https://dicook.github.io/Stellenbosch_2022/slides.html)](https://dicook.github.io/Stellenbosch_2022/slides.html.
+Viewable at [https://dicook.github.io/Stellenbosch_2022/slides.html](https://dicook.github.io/Stellenbosch_2022/slides.html).
