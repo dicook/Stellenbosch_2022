@@ -1,11 +1,7 @@
-# RLadies_Melbourne_2022
+# Stellenbosch University 2022
 
-Materials for an R Ladies Melbourne presentation, Sep 1, 2022
+Slides and materials for presentation at Stellenbosch University, Nov 24, 2022
 
-Presenter: Di Cook
+Website: [https://dicook.github.io/Stellenbosch_2022/](https://dicook.github.io/Stellenbosch_2022/)
 
-Website: [https://dicook.github.io/RLadies_Melbourne_2022/](https://dicook.github.io/RLadies_Melbourne_2022/)
-
-Download a [zip file of all of the materials](https://dicook.github.io/RLadies_Melbourne_2022/RLadies_Melbourne_2022.zip)
-
-Follow along with the slides [here](https://dicook.github.io/RLadies_Melbourne_2022/slides.html)
+Follow along with the slides [here](https://dicook.github.io/Stellenbosch_2022/slides.html)
